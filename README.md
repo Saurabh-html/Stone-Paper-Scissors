@@ -5,7 +5,7 @@
 A simple **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**. The game lets users play against the computer and keeps track of scores dynamically.  
 
 ## 📸 Screenshot  
-![Game Preview]()  
+![Game Preview](Screenshot 2025-03-13 230200.png)  
  
 
 ## 🎮 Features  
